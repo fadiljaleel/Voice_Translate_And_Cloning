@@ -22,27 +22,51 @@ git clone https://github.com/jnordberg/tortoise-tts.git
 pip3 install -r requirements.txt:
 
 tqdm
+
 rotary_embedding_torch
+
 transformers
+
 tokenizers
+
 inflect
+
 progressbar
+
 einops
+
 unidecode
+
 scipy
+
 librosa
+
 numba==0.48.0
+
 ffmpeg
+
 pip3 install transformers==4.19.0 einops==0.5.0 rotary_embedding_torch==0.1.5 unidecode==1.3.5
+
 python3 setup.py install
+
 tokenizers
+
 inflect
+
 progressbar
+
 einops
+
 unidecode
+
 scipy
+
 librosa
+
 numba==0.48.0
+
 ffmpeg
+
 pip3 install transformers==4.19.0 einops==0.5.0 rotary_embedding_torch==0.1.5 unidecode==1.3.5
+
 python3 setup.py install
