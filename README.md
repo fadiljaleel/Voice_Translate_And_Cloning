@@ -2,7 +2,7 @@
 
 VOICE CLONING AND TRANSLATING A model for extract a voice of a speaker from diffrent languages and Clone the same speaker’s voice with the same pitch, and audio tone. Whisper for Speech Translation: The script utilizes OpenAI's Whisper model to translate speech from Hindi to English. Whisper is a deep learning model designed for automatic speech recognition (ASR), making it capable of transcribing spoken words into text. Tortoise TTS for Text-to-Speech: After translating the speech to English text, the project uses Tortoise TTS, a text-to-speech synthesis library. Tortoise TTS allows for the generation of speech using custom voices, which adds a personal touch to the synthesized audio.
 
-Overview
+# Overview
 *Translation of Speech from Hindi to English: Your project involves translating speech from the Hindi language to English. You use OpenAI's Whisper model for speech translation.
 
 *Text-to-Speech (TTS) with Custom Voices: After translating the speech to English, you generate speech audio using a custom voice. You have implemented a TTS system that allows for the synthesis of speech with custom voices. Users can upload audio clips to be used as custom voices.
@@ -11,7 +11,7 @@ Overview
 
 *Input and Output Files: project deals with input audio files in Hindi and generates output audio files in English.
 
-Installation
+## Installation
 # Example installation command
 pip install git+https://github.com/openai/whisper.git
 pip3 install -U scipy
