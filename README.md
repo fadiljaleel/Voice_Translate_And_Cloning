@@ -13,7 +13,7 @@ VOICE CLONING AND TRANSLATING A model for extract a voice of a speaker from diff
 
 # Installation
 ## Example installation command
-**pip install git+https://github.com/openai/whisper.git
+pip install git+https://github.com/openai/whisper.git
 
 pip3 install -U scipy
 
