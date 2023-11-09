@@ -11,8 +11,8 @@ VOICE CLONING AND TRANSLATING A model for extract a voice of a speaker from diff
 
 *Input and Output Files: project deals with input audio files in Hindi and generates output audio files in English.
 
-## Installation
-# Example installation command
+# Installation
+## Example installation command
 pip install git+https://github.com/openai/whisper.git
 
 pip3 install -U scipy
